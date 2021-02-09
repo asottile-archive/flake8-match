@@ -32,5 +32,5 @@ Sample `.pre-commit-config.yaml`:
     rev: 3.8.4
     hooks:
     -   id: flake8
-        additional_dependencies: [flake8-match==0.0.0]
+        additional_dependencies: [flake8-match==1.0.0]
 ```
