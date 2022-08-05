@@ -9,7 +9,9 @@ flake8 plugin which forbids match statements (PEP 634)
 
 ## installation
 
-`pip install flake8-match`
+```bash
+pip install flake8-match
+```
 
 ## flake8 codes
 
